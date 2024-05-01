@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jmond544&label=Profile%20views&color=0e75b6&style=flat" alt="Jmond544" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jmond544" alt="Jmond544" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jmond544&theme=onedark&row=2&column=3" alt="Jmond544" /></a> </p>
 
 - 🌱 I’m currently learning **C#, .NET**
 
